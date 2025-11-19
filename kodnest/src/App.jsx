@@ -7,7 +7,7 @@ export default function App() {
   let dost = "Sonu Gandu";
   return (
     <div>
-      <h1>Welcome</h1>
+      <h1>Kamlesh</h1>
       <Homeclass name={fname} age={age} dost={dost}/>
     </div>
   );
